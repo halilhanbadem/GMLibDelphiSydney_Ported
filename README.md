@@ -1,5 +1,11 @@
 # gmlib_v1
 
+## Important
+
+It's just made compilable and installable. No detailed testing or development has been done.
+
+
+
 This project is closed due to the new Google Maps license
 
 Google Maps Library v1 (closed)
