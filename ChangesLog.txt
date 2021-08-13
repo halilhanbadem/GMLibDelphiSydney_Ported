@@ -20,6 +20,9 @@ Requirements:
 
 CHANGE HISTORY
 ~~~~~~~~~~~~~~
+August 13, 2021
+       - Made minor changes to the Sydney compilation. It can be compiled with Delphi 10.4. (PR: Halil Han BADEM)
+
 April 26, 2017
 	- Up to date version to be compatible with 3.28 version
 

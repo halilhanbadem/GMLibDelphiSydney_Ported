@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>2017/03/27 23:40:41.000.993,D:\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj=D:\Documents\DropBox\Programacio\GoogleMaps\Components\gmlib_v1\GMLibProject_D_Tokyo.groupproj</Transaction>
+    <Transaction>2017.03.27 23:40:41.000.993,D:\Documents\DropBox\Programacio\GoogleMaps\Components\gmlib_v1\GMLibProject_D_Tokyo.groupproj=D:\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj</Transaction>
   </Transactions>
 	<Default.Personality>
-		<Projects ActiveProject="D:\Documents\Dropbox\Programacio\GoogleMaps\Components\gmlib_v1\Demos\MegaDemo\MegaDemo.dproj"/>
+		<Projects ActiveProject="D:\bileşen sydney\GMLibDelphiRio-master\dpk\GMLib_D_Tokyo_VCL.dproj"/>
 	</Default.Personality>
 </BorlandProject>
