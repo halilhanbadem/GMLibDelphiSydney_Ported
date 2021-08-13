@@ -41,6 +41,8 @@ Compiled in:
 <li>RAD Studio 10.0 Seattle</li>
 <li>RAD Studio 10.1 Berlin</li>
 <li>RAD Studio 10.2 Tokyo</li>
+<li>RAD Studio 10.3 Rio</li>
+<li>RAD Studio 10.4 Sydney</li>
 </ul>
 
 Compatible with VCL framework.
